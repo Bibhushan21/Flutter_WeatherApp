@@ -1,1 +1,1 @@
-const openWeatherMapApiKey = "Your API KEY";
+const openWeatherMapApiKey = "paste Your API KEY ";
