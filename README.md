@@ -27,7 +27,7 @@ The website version of the weather app is built using **HTML**, **CSS**, and **J
 - JavaScript  
 
 **API:**  
-- OpenWeather API
+- OpenWeather API (To run real time data go to lib in there you will fing secret.dart file there ou can paste your API)
 
 ## 🛠️ Features
 
